@@ -4,14 +4,14 @@
       {
         "id": "ec9cb726-5f7f-4880-abd6-f96248f32eba",
         "line": 1,
-        "version": 1004,
+        "version": 1024,
         "index": 0
       },
       {
         "id": "ddbb864e-aab4-4186-8310-ba49405f9c29",
         "line": 17,
-        "version": 1004,
-        "index": 321
+        "version": 1024,
+        "index": 337
       }
     ],
     "for of": [
