@@ -1,14 +1,19 @@
 // FOR LOOP: Complete the solution so that it reverses the string.
-function reverseStr(){
+//function reverseStr(){
 
-let newStr = ''
+//let newStr = ''
 //Start looping from end of string 
-for(let i = str.length -1){
+//for(let i = str.length -1){
   //Pass each looped through sub-string character to the newStr varialbe.
-  newStr += str[i]
-  }
+  //newStr += str[i]
+  //}
   
-return newStr
+//return newStr
 
-reverseStr('world')
-}
+//reverseStr('world')
+//}
+~~~~~~~~~~~
+
+
+
+
